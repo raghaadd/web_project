@@ -1,0 +1,190 @@
+body {
+    /*font-family: Verdana;*/
+    font-family: Bell MT;
+    background-color:#242424;
+    width:100%;
+    margin:0;
+}
+div.red-div{
+    height: 500px;
+    background-image: linear-gradient(to left,#a10202, #a10202, #ff6363);
+
+}
+.top-div{
+    margin: 0;
+    width: 0px;
+    height: 0px;
+    border-bottom:442px solid #a10202;
+    border-top: 250px solid #a10202;
+    border-left: 759px solid  #a10202;
+    border-right: 759px solid white;
+}
+
+img.imgclass{
+    width: 500px;
+    height: 480px;
+    position: absolute;
+    top:100px;
+    left: 445px;
+}
+/*    anchor style */
+a.top {
+    font-size: 20px;
+    font-weight: bold;
+    color: white;
+    position: relative;
+    text-decoration: none;
+    transition: color .4s ease-out;
+}
+
+a.top:hover {
+    color:#ff6363;
+    right: 0;
+    text-decoration: none;
+}
+
+a.top:hover:after {
+    border-color: white;
+    right: 0;
+}
+
+a.top:after {
+    border-radius: 1em;
+    border-top: 2px solid #a10202;
+    content: "";
+    position: absolute;
+    right: 100%;
+    bottom: .14em;
+    left: 0;
+    transition: right .4s cubic-bezier(0,.5,0,1),
+    border-color .4s ease-out;
+}
+
+a.top:hover:after {
+    animation: anchor-underline 2s cubic-bezier(0,.5,0,1) infinite;
+    border-color: white;
+}
+
+@keyframes anchor-underline {
+    0%, 10% {
+        left: 0;
+        right: 100%;
+    }
+    40%, 60% {
+        left: 0;
+        right: 0;
+    }
+    90%, 100% {
+        left: 100%;
+        right: 0;
+    }
+}
+
+/*    unordered list style*/
+.container{
+    margin: 0;
+    position: absolute;
+    top: 0px;
+    left:10px;
+
+}
+.cont2{
+    margin: 0;
+    position: absolute;
+    top: 0px;
+    left:400px;
+
+}
+
+ul.unordered-list-class{
+    text-align: left;
+    list-style-type: none;
+    font-size: 4rem;
+    display: inline;
+}
+ul.unordered-list-class li{
+    float: left;
+    padding-top: 0px;
+    padding-left: 20px;
+    color: white;
+    text-transform: capitalize;
+}
+
+ul.unorder_title li{
+    float: left;
+    color: white;
+    text-transform: uppercase;
+    transition: all 2s linear;
+}
+ul.unorder_title{
+    text-align: left;
+    list-style-type: none;
+    font-size: 4rem;
+    display: inline;
+
+}
+
+/*        Footer Style:*/
+button.button1{
+    margin-left:1000px;
+    margin-top: -30px;
+    cursor: pointer;
+    padding: 15px 50px;
+    border: 1px #ff6363 solid;
+    background-color: #a10202;
+    color: white;
+    text-align: center;
+    font-size: 20px;
+    font-weight: bold;
+    font-family: "Bell MT";
+}
+.left-side{
+    float: left;
+    color:  #a10202;
+    font-weight: bold;
+}
+a.bottom {
+    font-weight: bold;
+    color: #908f91;
+    text-decoration: none;
+}
+
+.footer-ul li{
+    margin-left: 20px;
+}
+
+.footer-ul  {
+    list-style-type: none!important;
+}
+
+.footer-ul li:before {
+    content: '\e051'!important;
+    color: #a10202!important;
+    font-family: 'ETMODULES'!important;
+    margin-right: 10px;
+    margin-left: -14px;
+    font-size: 1.2em!important;
+}
+
+/*    Change the scrollbar */
+/* width */
+::-webkit-scrollbar {
+    width: 13px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+    box-shadow: inset 0 0 5px grey;
+    border-radius: 10px;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+    background: #a10202;
+    border-radius: 10px;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+    background: #ff6363;
+}
