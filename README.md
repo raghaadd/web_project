@@ -4,10 +4,9 @@
  &nbsp; &nbsp; &nbsp; &nbsp; Raghad Shehadeh
  <br>
  Backend & Frontend Developer
+ <br>
 <br><img src="https://user-images.githubusercontent.com/100478249/176710425-ec519d6e-386d-4745-bea6-a5345fdacc6c.png" width="200" height="200"> 
-
-
- &nbsp; &nbsp; &nbsp; &nbsp; Zaina Zaben 
+ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Zaina Zaben 
 <br>
  Backend & Frontend Developer
 <br><br><br>
