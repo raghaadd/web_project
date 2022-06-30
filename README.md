@@ -5,7 +5,7 @@
  &nbsp; &nbsp; &nbsp; &nbsp;***Raghad Shehadeh***
  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; ***Zaina Zaben*** 
 <br>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;   *Backend & Frontend Developer*  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; *Backend & Frontend Developer* 
+&nbsp; &nbsp; &nbsp;  *Backend & Frontend Developer*  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; *Backend & Frontend Developer* 
 <br><br><br>
 <h2 align="left"> Poject Demo</h2> 
 <p> You can click on th following youtube link to see full demo for this project: https://www.youtube.com/watch?v=CHgCW_DP7rc</p>
