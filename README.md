@@ -76,10 +76,23 @@ will appear to him as shown bellow.<br><img src="https://user-images.githubuserc
   </li>
   <li><br><img src="https://user-images.githubusercontent.com/100478249/176887700-aeca00f7-4d84-474d-9a30-9cf450057757.png">
   </li>
+ <li>If admin click on Admin button at the left of the above page then the below page will appear to him.Through this interface admin can add other admins, edit their
+information or even delete other admins also he can search for specific information.<br><img src="https://user-images.githubusercontent.com/100478249/176888370-cd61e8ee-f9c5-4e7d-8b5f-2a68cc6c8193.png">
+  </li>
+ <li>If admin click on User button at the left of the above page then the below page will appear to him.Through this interface admin can see information about users.<br><img src="https://user-images.githubusercontent.com/100478249/176888723-dc87e88c-65a5-480b-aea7-4fd1b5ff32f0.png">
+  </li>
+ <li>If admin click on Movie button at the left of the above page then the below page will appear to him.Through this interface admin can add movies, edit them or 
+even delete them search for specific movie.<br><img src="https://user-images.githubusercontent.com/100478249/176889208-5750b9c8-e93a-427c-8721-a5aa225ea03f.png">
+  </li>
+ <li>If admin click on Snack button at the left of the above page then the below page will appear to him.Through this interface admin can add snacks, edit them or even 
+delete them and search for specific snack.<br><img src="https://user-images.githubusercontent.com/100478249/176889455-3bc2b718-984f-4d57-9667-2762de88b771.png">
+  </li>
+ <li>If admin click on Review button at the left of the above page then the below page will appear to him.Through this interface admin can see the whole reviews.<br><img src="https://user-images.githubusercontent.com/100478249/176889607-1e4e1ee0-f155-43c5-934f-88905fee262c.png">
+  </li>
   </ul>
 
 
-  
+
 
 
   
