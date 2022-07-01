@@ -61,7 +61,25 @@
   </li>
  <li>If usres click on snack button then the below interface will appear to them and they could choose any snacks they want.<br><img src="https://user-images.githubusercontent.com/100478249/176885974-baa290dc-4c58-4ed5-b893-feff8ad9e01d.png">
   </li>
+ 
+ <li>In this interface users should specify their visa information to pay for tickets and snacks that they chose.<br><img src="https://user-images.githubusercontent.com/100478249/176886785-014a634a-d0e5-4abd-8be8-e9178a845443.png">
+  </li>
+ <li>Finally a bill will appear after users complete all the require steps for their booking.<br><img src="https://user-images.githubusercontent.com/100478249/176886794-f0262a56-0125-4bd3-bd9f-699609ad06bd.png">
+  </li>
+ </ul>
+ <h4>Now let us move to the administrator interfaces</h4>
+ <ul>
+ <li>When admin enters his correct email and passwods then the below interface will appear to him.<br><img src="https://user-images.githubusercontent.com/100478249/176886805-0a13a02b-08ac-40ed-979c-b253579623f4.png">
+  </li>
+ <li>At the top of the above page we put number of admins, users, movies,food and reviews. Then when admin scroll down a table of each entity 
+will appear to him as shown bellow.<br><img src="https://user-images.githubusercontent.com/100478249/176886818-7f151e30-cf49-4898-987d-eea6339ea064.png">
+  </li>
+  <li><br><img src="https://user-images.githubusercontent.com/100478249/176887700-aeca00f7-4d84-474d-9a30-9cf450057757.png">
+  </li>
   </ul>
+
+
+  
 
 
   
