@@ -74,7 +74,7 @@
  <li>At the top of the above page we put number of admins, users, movies,food and reviews. Then when admin scroll down a table of each entity 
 will appear to him as shown bellow.<br><img src="https://user-images.githubusercontent.com/100478249/176886818-7f151e30-cf49-4898-987d-eea6339ea064.png">
   </li>
-  <li><br><img src="https://user-images.githubusercontent.com/100478249/176887700-aeca00f7-4d84-474d-9a30-9cf450057757.png">
+  <li><img src="https://user-images.githubusercontent.com/100478249/176887700-aeca00f7-4d84-474d-9a30-9cf450057757.png">
   </li>
  <li>If admin click on Admin button at the left of the above page then the below page will appear to him.Through this interface admin can add other admins, edit their
 information or even delete other admins also he can search for specific information.<br><img src="https://user-images.githubusercontent.com/100478249/176888370-cd61e8ee-f9c5-4e7d-8b5f-2a68cc6c8193.png">
