@@ -25,5 +25,24 @@
   </li>
  <li>In this interface we put our location, also we put a button called contact us to allow users send us messages if they face any problem.<br><img src="https://user-images.githubusercontent.com/100478249/176882831-fd0eaccf-b1d3-4026-b922-8baa0c99f0ee.png">
   </li>
-    
+ 
+ <li>The below interface contain footer which include some information about our website, also we create a scroll top button to move us to the top of the page.<br><img src="https://user-images.githubusercontent.com/100478249/176883725-fbdd6cb2-ba16-4c6c-80c2-8e1bab1d9064.png">
+  </li>
+ <li>When users click on the contact us buuton, this interface will appear to them then they could enter their messages and problems to apply them for admins.<br><img src="https://user-images.githubusercontent.com/100478249/176883743-6fa2c8a3-14bf-4ef1-b94f-355a84f1c644.png">
+  </li>
+ <li>When users click on sign in word that shown at the top of the index page then this interface will appear to let them login to main page. If the user does not have a previous account then he must click on sign up button to register and create new account.<br><img src="https://user-images.githubusercontent.com/100478249/176883758-85ca0244-7247-4f12-8a8e-4631567804a5.png">
+  </li>
+ <li>The below page show the sign up page in this page the user should fill all the fields and click on submit button to create new account successfully.<br><img src="https://user-images.githubusercontent.com/100478249/176883782-cac4657b-08ca-4a5e-b22b-b8755620d952.png">
+  </li>
+ 
+ <li>If the users forgot their passwords then they can click on Forgot Password button after that, they have to enter their correct emails then a verification code will reach to their emails they have to enter this code correctly in order to let them change their passwords and set new one.<br><img src="https://user-images.githubusercontent.com/100478249/176884600-d43f3a29-9ec0-4720-ba91-70a472087b0b.png">
+  </li>
+ <li>In this interface users should check their emails and enter the proper code.<br><img src="https://user-images.githubusercontent.com/100478249/176884615-12d7dd3e-ad71-4c24-b79d-9ff295afb25d.png">
+  </li>
+ <li>In this interface user can set a new passwords for their accounts.<br><img src="https://user-images.githubusercontent.com/100478249/176884623-359ae954-0de5-47eb-88a3-f7591447150c.png">
+  </li>
+ <li>After the users log in, below interface will appear to them at the top page we put a button to let them rate our website also we put a button to let them see their personal information which include their uploaded images and their names.<br><img src="https://user-images.githubusercontent.com/100478249/176884639-21c40470-d844-46a5-a6c6-90b9f397d996.png">
+  </li>
   </ul>
+
+
