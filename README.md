@@ -43,6 +43,25 @@
   </li>
  <li>After the users log in, below interface will appear to them at the top page we put a button to let them rate our website also we put a button to let them see their personal information which include their uploaded images and their names.<br><img src="https://user-images.githubusercontent.com/100478249/176884639-21c40470-d844-46a5-a6c6-90b9f397d996.png">
   </li>
+ 
+ <li><br><img src="https://user-images.githubusercontent.com/100478249/176885377-a504c279-d5f4-4c5f-9b2a-a95d4b4d2480.png">
+  </li>
+ <li>The below interface contains the movies that admins added to be shown this week when users put their mouse on any movies then the description and show date for specific movies will appear.<br><img src="https://user-images.githubusercontent.com/100478249/176885383-b80fbdee-a8a7-43bf-8296-5d8ada44c378.png">
+  </li>
+ <li>This interface enable users to rate our website, this rating will appear to the admins.<br><img src="https://user-images.githubusercontent.com/100478249/176885394-ea4008b1-e46f-46e7-a2ea-68f54f8d46e5.png">
+  </li>
+ <li>This interface will appear after users click on view trail button the trailer for specific movie will appear.<br><img src="https://user-images.githubusercontent.com/100478249/176885404-bcff842f-5af8-49d5-ad1c-f97f00ebfc2c.png">
+  </li>
+ 
+ <li>The below interface will appear when users click on Get Tickets button after chosen what movie they want to watch they also could specify the number of tickets they want. <br><img src="https://user-images.githubusercontent.com/100478249/176885939-bbfd96a9-7bec-460a-8c7e-0c1f5e6a86e5.png">
+  </li>
+ <li>After that users should specify which seat they want to set on depending on the number of tickets.<br><img src="https://user-images.githubusercontent.com/100478249/176885953-9586710d-bbbd-4a33-8eed-9a84de7a586d.png">
+  </li>
+ <li>After that usres should choose if they want snacks or they want to go directly to payment.<br><img src="https://user-images.githubusercontent.com/100478249/176885965-788e000e-462e-4933-85b9-74208a9be908.png">
+  </li>
+ <li>If usres click on snack button then the below interface will appear to them and they could choose any snacks they want.<br><img src="https://user-images.githubusercontent.com/100478249/176885974-baa290dc-4c58-4ed5-b893-feff8ad9e01d.png">
+  </li>
   </ul>
 
 
+  
